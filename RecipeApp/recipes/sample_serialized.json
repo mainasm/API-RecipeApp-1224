@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "title": "Italian Spaghetti",
+    "ingredients": "Spaghetti, Tomato Sauce, Ground Beef, Garlic, Onion",
+    "instructions": "1. Boil spaghetti. 2. Cook sauce. 3. Combine.",
+    "tags": [
+        {"id": 1, "name": "Italian"},
+        {"id": 2, "name": "Pasta"}
+    ],
+    "reviews": [
+        {"id": 1, "rating": 5, "comment": "Delicious!"},
+        {"id": 2, "rating": 4, "comment": "Tasty, but needs more salt."}
+    ],
+    "comments": [
+        {"id": 1, "user": "chef_john", "text": "Great recipe!"},
+        {"id": 2, "user": "foodie123", "text": "Tried this yesterday and loved it."}
+    ],
+    "created_at": "2024-11-28T12:00:00Z",
+    "updated_at": "2024-11-28T12:30:00Z",
+    "created_by": "admin"
+}
